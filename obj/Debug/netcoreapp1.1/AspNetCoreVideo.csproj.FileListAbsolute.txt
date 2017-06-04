@@ -1,0 +1,10 @@
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp1.1\AspNetCoreVideo.deps.json
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp1.1\AspNetCoreVideo.runtimeconfig.json
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp1.1\AspNetCoreVideo.runtimeconfig.dev.json
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp1.1\AspNetCoreVideo.dll
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\bin\Debug\netcoreapp1.1\AspNetCoreVideo.pdb
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp1.1\AspNetCoreVideo.csprojResolveAssemblyReference.cache
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp1.1\AspNetCoreVideo.AssemblyInfo.cs
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp1.1\AspNetCoreVideo.dll
+c:\users\tinh\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp1.1\AspNetCoreVideo.pdb
+C:\Users\TINH\documents\visual studio 2017\Projects\AspNetCoreVideo\AspNetCoreVideo\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
